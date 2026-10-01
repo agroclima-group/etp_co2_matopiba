@@ -1,5 +1,7 @@
 # Effect of atmospheric CO₂ on potential evapotranspiration in MATOPIBA, Brazil
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23087114.svg)](https://doi.org/10.5281/zenodo.23087114)
+
 Code and derived data for the article:
 
 > Meneses, K.C., Santos, G.A.A., Silva, M.V., Rolim, G.S., La Scala Jr., N. *Effect of atmospheric CO₂ on potential evapotranspiration in the drylands of MATOPIBA, Brazil: evidence from satellite-observed xCO₂ and SIF.* Manuscript in preparation.
@@ -79,7 +81,9 @@ Comments in the code are in Portuguese.
 
 ## Citation
 
-If you use this code or data, please cite the article above and the Zenodo record (DOI to be added; see `CITATION.cff`).
+If you use this code or data, please cite the article above and the Zenodo record:
+
+> Meneses, K.C., Santos, G.A.A., Silva, M.V., Rolim, G.S., La Scala Jr., N. (2026). *Code and data for: Ignoring plant responses to rising CO₂ overestimates dryland expansion under high emissions in a Brazilian Cerrado agricultural frontier (MATOPIBA)* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23087114
 
 ## License
 

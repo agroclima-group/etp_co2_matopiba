@@ -27,4 +27,5 @@ keywords:
   - solar-induced chlorophyll fluorescence
   - aridity index
   - MATOPIBA
-# doi: 10.5281/zenodo.XXXXXXX   (add after the Zenodo record is created)
+doi: 10.5281/zenodo.23087114
+repository-code: "https://github.com/agroclima-group/etp_co2_matopiba"
