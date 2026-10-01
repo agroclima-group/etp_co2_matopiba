@@ -1,0 +1,17 @@
+{
+  "title": "Code and data for: Ignoring plant responses to rising CO₂ overestimates dryland expansion under high emissions in a Brazilian Cerrado agricultural frontier (MATOPIBA)",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "description": "<p>Python pipeline and data used to compare potential evapotranspiration (PET) with and without the stomatal effect of CO₂ over MATOPIBA, Brazil (964 cells of 0.25°, about 736,000 km²). PET-PM is the FAO-56 Penman-Monteith equation with fixed surface resistance; PET-Y is the formulation of Yang et al. (2019), in which surface resistance increases with CO₂, driven by OCO-2 xCO₂. The record covers the observed period (2015–2025: xCO₂, PET, SIF from GOSIF, aridity index) and future scenarios (RCP 2.6, 4.5 and 8.5; 2021–2040, 2041–2060 and 2081–2100), including the CO₂ offset and the area susceptible to desertification (UNCCD classes).</p><p>Contents: scripts/ (pipeline, run in numerical order), data_raw/ (raw downloads clipped to MATOPIBA: ERA5-Land daily by year, OCO-2 Lite soundings, GOSIF), data/ (processed monthly grids, MATOPIBA boundary, CMIP5 regional deltas), results/ (tables and gridded outputs used in the article) and figures/ (final figures). The file data/era5land_diario.nc is not included and is rebuilt from data_raw/ by scripts/01_download_gee.py.</p><p>Code is released under the MIT licence (LICENSE); data and figures under CC BY 4.0. Source datasets remain subject to the terms of their providers (ECMWF/Copernicus, NASA GES DISC, NASA LP DAAC, CHG/UCSB, MapBiomas, NASA NEX-GDDP).</p>",
+  "creators": [
+    {"name": "Meneses, Kamila Cunha de", "affiliation": "Federal University of Maranhão (UFMA), Chapadinha Science Center (CCCh), Chapadinha, MA, Brazil", "orcid": "0000-0001-9200-5260"},
+    {"name": "Santos, Gustavo André de Araújo dos", "affiliation": "Federal University of Maranhão (UFMA), Chapadinha Science Center (CCCh), Chapadinha, MA, Brazil"},
+    {"name": "Silva, Marcos Vinicius da", "affiliation": "Federal University of Maranhão (UFMA), Chapadinha Science Center (CCCh), Chapadinha, MA, Brazil"},
+    {"name": "Rolim, Glauco de Souza", "affiliation": "São Paulo State University (UNESP), School of Agricultural and Veterinary Sciences (FCAV), Jaboticabal, SP, Brazil"},
+    {"name": "La Scala Junior, Newton", "affiliation": "São Paulo State University (UNESP), School of Agricultural and Veterinary Sciences (FCAV), Jaboticabal, SP, Brazil"}
+  ],
+  "keywords": ["potential evapotranspiration", "Penman-Monteith", "elevated CO2", "stomatal resistance", "OCO-2", "xCO2", "solar-induced chlorophyll fluorescence", "aridity index", "desertification", "Cerrado", "MATOPIBA"],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng"
+}

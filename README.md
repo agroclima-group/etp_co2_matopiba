@@ -79,8 +79,8 @@ Comments in the code are in Portuguese.
 
 ## Citation
 
-If you use this code, please cite the article above (reference will be updated after publication).
+If you use this code or data, please cite the article above and the Zenodo record (DOI to be added; see `CITATION.cff`).
 
 ## License
 
-MIT (see `LICENSE`).
+Code: MIT (see `LICENSE`). Data and figures: CC BY 4.0. Source datasets remain subject to the terms of their providers.

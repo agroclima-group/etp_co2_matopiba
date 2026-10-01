@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Code and data for: Ignoring plant responses to rising CO₂ overestimates dryland expansion under high emissions in a Brazilian Cerrado agricultural frontier (MATOPIBA)"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: "Meneses"
+    given-names: "Kamila Cunha de"
+    orcid: "https://orcid.org/0000-0001-9200-5260"
+    affiliation: "Federal University of Maranhão (UFMA)"
+  - family-names: "Santos"
+    given-names: "Gustavo André de Araújo dos"
+    affiliation: "Federal University of Maranhão (UFMA)"
+  - family-names: "Silva"
+    given-names: "Marcos Vinicius da"
+    affiliation: "Federal University of Maranhão (UFMA)"
+  - family-names: "Rolim"
+    given-names: "Glauco de Souza"
+    affiliation: "São Paulo State University (UNESP)"
+  - family-names: "La Scala Junior"
+    given-names: "Newton"
+    affiliation: "São Paulo State University (UNESP)"
+keywords:
+  - potential evapotranspiration
+  - elevated CO2
+  - OCO-2
+  - solar-induced chlorophyll fluorescence
+  - aridity index
+  - MATOPIBA
+# doi: 10.5281/zenodo.XXXXXXX   (add after the Zenodo record is created)
