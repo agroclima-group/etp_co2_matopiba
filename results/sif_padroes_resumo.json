@@ -1,0 +1,21 @@
+{
+  "sif_media_regional": 0.22871386342348524,
+  "sif_media_p5_p95": [
+    0.15523992932091157,
+    0.3096665581688285
+  ],
+  "queda_seca_mediana": 52.45381027633875,
+  "tend_regional_pct_dec": 11.201119487623188,
+  "tend_regional_p": 0.2104977000553374,
+  "pct_area_tend_pos_sig": 27.471383975026015,
+  "pct_area_tend_neg_sig": 0.10405827263267431,
+  "media_Cerrado nativo": 0.22181409324208895,
+  "queda_Cerrado nativo": 52.95828742312452,
+  "tend_Cerrado nativo": 11.024344217464835,
+  "media_Lavoura": 0.1797011285709838,
+  "queda_Lavoura": 76.49726530401475,
+  "tend_Lavoura": 23.663541615744965,
+  "media_Pastagem": 0.27535826011250414,
+  "queda_Pastagem": 47.06628698150599,
+  "tend_Pastagem": 6.114438848837189
+}

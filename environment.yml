@@ -1,0 +1,26 @@
+name: etp_co2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - xarray
+  - netcdf4
+  - h5netcdf
+  - h5py
+  - pyarrow
+  - bottleneck
+  - matplotlib
+  - statsmodels
+  - scipy
+  - geopandas
+  - earthengine-api
+  - pip
+  - pip:
+      - pyet>=1.5
+      - xee
+      - earthaccess
+      - pygam
+      - pymannkendall
+      - geobr

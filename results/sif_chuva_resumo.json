@@ -1,0 +1,12 @@
+{
+  "theta_multi_media": 0.004410743757916474,
+  "theta_multi_tend_dec": 0.0013130856212122026,
+  "pct_area_tend_positiva_sig": 15.789473684210526,
+  "pct_area_tend_negativa_sig": 11.449676823638043,
+  "tend_mais_seco": 0.0006440938578563809,
+  "tend_mais_umido": 0.0020129596586616243,
+  "corr_tend_ia": 0.053914325377895554,
+  "theta_vs_xco2_incl": 7.073125755957488e-05,
+  "theta_vs_xco2_p": 0.067474989111379,
+  "janela_meses": 36
+}

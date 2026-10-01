@@ -1,0 +1,9 @@
+grupo,etp,n,kge,vies,rmse
+Todas,cla,45430,-0.469,12.331,36.376
+Todas,co2,45430,-0.468,11.748,36.047
+Cerrado nativo,cla,35805,-0.456,13.978,36.99
+Cerrado nativo,co2,35805,-0.455,13.389,36.635
+Lavoura,cla,2255,-0.462,29.295,42.65
+Lavoura,co2,2255,-0.459,28.544,42.04
+Pastagem,cla,7370,-0.483,-0.86,30.863
+Pastagem,co2,7370,-0.483,-1.362,30.796

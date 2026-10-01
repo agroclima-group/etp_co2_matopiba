@@ -1,0 +1,26 @@
+# credentials (never commit)
+token_earthdata.txt
+.netrc
+*.token
+.env
+
+# files over GitHub's 100 MB limit (rebuilt from data_raw/ by 01_download_gee.py)
+data/era5land_diario.nc
+data/estados_ibge.gpkg
+data/brasil_ibge.gpkg
+data/brasil_estados.geojson
+data_teste/
+results/etp_mensal.nc
+results_teste/
+figures/generated*/
+logs/
+
+# manuscript files
+*.docx
+*.doc
+
+# Python / OS
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,14 @@
+pyet>=1.5
+xarray
+netCDF4
+numpy
+pandas
+matplotlib
+statsmodels
+pygam
+pymannkendall
+bottleneck
+earthaccess
+earthengine-api
+xee
+geobr  # opcional: limites estaduais nos mapas
